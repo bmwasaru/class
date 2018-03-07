@@ -1,0 +1,7 @@
+p { color: blue; }
+
+img { width: 596px; height: 596px; }
+
+table { width: 200px; }
+
+table, tr, td, th { border: 5px solid; border-collapse: collapse; }
